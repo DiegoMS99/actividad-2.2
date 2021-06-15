@@ -1,0 +1,27 @@
+{
+  "name": "actividad-2",
+  "version": "1.0.0",
+  "description": "Aprender a utilizar los protocolos HTTP y códigos de estado",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon src/main.js"
+  },
+  "keywords": [
+    "UVM",
+    "Backend",
+    "2021",
+    "Profesor:",
+    "Edgar",
+    "Valero"
+  ],
+  "author": "Diego Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
